@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trie
+comment1.params=
+comment1.target=Trie()
+comment2.params=word
+comment2.target=void\ insertWord(java.lang.String)
+comment3.params=prefix
+comment3.target=boolean\ isPrefixValid(java.lang.String)
+comment4.params=word
+comment4.target=boolean\ isWordValid(java.lang.String)
+comment5.params=currentNode
+comment5.target=void\ printAllKeys(Node)
+numComments=6
